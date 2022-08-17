@@ -26,7 +26,7 @@ You should be all good! (check for latest version on CurseForge)
 
 ### If Downloaded from CurseForge/OverWolf manual download
 
-To install, place the `NukesTinyGirder` folder inside your Kerbal Space Program's GameData folder:
+To install, place the `NukesTinyPods` folder inside your Kerbal Space Program's GameData folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
   * Delete `<KSP_ROOT>/GameData/Nuke/NukesTinyPods`
@@ -52,7 +52,7 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 <KSP_ROOT>
   + [GameData]
     + [Nuke]
-      + [NukesTinyGirder]
+      + [NukesTinyPods]
         + [Compatibility]
           ...
         + [Config]
@@ -68,7 +68,7 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
         * changelog.md
         * GPL-2.0.txt
           ManualInstallation.htm
-        * NukesTinyGirder.version
+        * NukesTinyPods.version
         * readme.htm
       ...
     ...
