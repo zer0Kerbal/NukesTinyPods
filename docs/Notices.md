@@ -23,10 +23,10 @@ based upon work by LisiasT -->
 ## Trademarks <i class="fa-solid fa-trademark fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: black" ></i>
 
 * "Nukes Tiny Parts" is trademark of Nuke
-* "tinyGirder" is trademark of Nuke
-* "Nuke's tinyGirder" is trademark of zer0Kerbal
-* "Nuke's TinyGirder" is trademark of zer0Kerbal
-* "NtG" is trademark of zer0Kerbal
+* "tinyPods" is trademark of Nuke
+* "Nuke's tinyPods" is trademark of zer0Kerbal
+* "Nuke's Tiny Pods" is trademark of zer0Kerbal
+* "NtP" is trademark of zer0Kerbal
 * Kerbal Simple Co is a trademark of zer0Kerbal
 * KerbSimCo is a trademark of zer0Kerbal
 * KerbSimpleCo is a trademark of zer0Kerbal
