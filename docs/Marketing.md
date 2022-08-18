@@ -30,22 +30,17 @@ based upon work by LisiasT -->
 
 A view from the cockpit interior on the launchpad
 
-![Launchpad IVA](https://i.postimg.cc/QNqdw7wp/Simple-Construction-resource-Flow.png)
-[top](#Table-of-Contents)
+![Launchpad IVA][IMG:hero:2a]
+[top](#Marketing-Slicks)
 
 ### LKO
 
 A view from the cockpit interior on the launchpad
 
 ![LKO IVA][IMG:hero:2a]
-[top](#Table-of-Contents)
+[top](#Marketing-Slicks)
 
-[top](#Table-of-Contents))
-
-[IMG:hero:2a]: https://i.imgur.com/zqg2qcv.png "Mining Ore"
-[IMG:hero:2b]: https://i.imgur.com/R6IYn5V.png "Refining Ore to Metal"
-[IMG:hero:2c]: https://i.imgur.com/jhbus6m.png "Printing Rocketparts from Metal"
-[IMG:hero:2d]: https://i.imgur.com/6v9gwma.png "Building Rockets"
-[IMG:hero:2e]: https://i.imgur.com/nmq46HA.png "Finalize build!"
+[IMG:hero:2a]: https://raw.githubusercontent.com/zer0Kerbal/NukesTinyPods/master/img/IVA-01.png "Launchpad IVA"
+[IMG:hero:2b]: https://raw.githubusercontent.com/zer0Kerbal/NukesTinyPods/master/img/IVA-02.png "LKO IVA"
 
 <!-- this file CC BY-ND 4.0 by zer0Kerbal -->
