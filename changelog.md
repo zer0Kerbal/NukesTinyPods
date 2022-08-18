@@ -92,11 +92,33 @@
 
 * Rename parts to unique names following the pattern `ntp-<PART-NAME>`
   * [halfMeterCockpit] --> [ntp-cockpit]
+    * Update
+    * based upon stock Mark1Cockpit
+    * [TechRequired] = aviation // advFlightControl
+    * entryCost = 5000 // 10500
+    * cost = 1250 // 2100
+    * tags = #autoLOC_500309
+    * [ModuleCommand]
+      * no hibernation
+      * add control points
+    * [ModuleSAS]
+      * [SASServiceLevel] from nothing to 1
+    * [ModuleReactionWheel]
+      * [ElectricCharge] from 0.1 to 0.2
+  * Internal
+    * ntp-cockpit
+  * Possible changes:
+    * needs further input and discussion
+    * based upon stock Mark1Cockpit
+    * minimum_drag = 0.09 // 0.1
+    * angularDrag = 0.9 // 2
+    * maxTemp = 2100 // 1100
+    * skinMaxTemp = 2750 // 2000
   * Add
     * <ghostparts.cfg> to attempt to prevent any damage to existing save games.
     * is not permanent. will be removed when the mod is updated to 1.0.0.0-release
 * Rename filename to unique filenames following the pattern `ntg-<PART-NAME>`
-  * <halfMeterCockpit.cfg> --> <ntp-cockpit.cfg>
+  * <hmCockpit.cfg> --> <ntp-cockpit.cfg>
 
 ### Compatibility 0.9.99.0
 
