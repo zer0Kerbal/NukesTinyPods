@@ -71,7 +71,7 @@
     * [readme.md] v2.1.2.0
     * [quickstart.md] v1.0.1.1
 * updates #5 - Localization Master
-* closes #5 - Localization - English <en-us.cfg>
+* closes #6 - Localization - English <en-us.cfg>
 * closes #23 - Part Localization
 * closes #27 - Localization/ folder
 
