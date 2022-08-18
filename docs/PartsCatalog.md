@@ -48,7 +48,7 @@ This add-on adds a tiny common pod
     * vesselType: Plane
     * CrewCapacity: 1
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/NukesTinyGirder/master/GameData/NukesTinyGirder/Parts/%40thumbs/ntp-cockpit_icon_icon.png" alt="Tiny Pod" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/NukesTinyPods/master/GameData/Nuke/NukesTinyPods/Parts/%40thumbs/ntp-cockpit_icon.png" alt="Tiny Pod" width="25%" height="25%" />
 
 ---
 
