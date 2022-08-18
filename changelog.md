@@ -20,7 +20,7 @@
 ### Summary
 
 * Split off from Nukes Tiny Parts
-* this is the first in a series of updates to Nukes Tiny Girders
+* this is the first in a series of updates to Nukes Tiny Pods
 * smaller updates make updating the addon much more manageable.
 * Included <ghostparts.cfg>
 
@@ -96,6 +96,7 @@
       * [tags] = #autoLOC_500309
       * [ModuleSAS]
         * [SASServiceLevel] from nothing to 1
+      * [DRAG_CUBES]
     * Update (based upon stock Mark1Cockpit)
       * [TechRequired] = aviation was advFlightControl
       * [entryCost] = 5000 was 10500
