@@ -19,41 +19,37 @@ updated: 15 May 2022 -->
 
 ## Parts Catalog
 
-This add-on adds nine (9) tiny girder parts
+This add-on adds a tiny common pod
 
 ---
 
-* Mallet *(Only with Kerbal Inventory System installed)*
-* SurveyStake
+* CPT_M1_328_G command pod
+* A tiny ultra-light cockpit. Minimal life support, minimal avionics, no built in power generation, underpowered gyros, very cramped. It is pressurized so I think it can go into space maybe.
+  * Basic Stats:
+    * Battery: 25
+    * Shortrange Radio
+    * Science Container
+    * Experiment: Crew Report
+    * ReactionWheel
+    * Sickness Avoidance Solution: Stability Assist, Prograde-Retrograde
+    * Command
+      * minimum crew capacity: 1
+      * hibernation: no
+      * control points: nornal and reversed
+    * max temp: 1100
+    * skin max temp: 2000
+    * crashTolerance: 40
+    * mass: 0.55
+    * TechRequired: aviation
+    * entryCost: 5000
+    * cost: 1250
+    * category: Pods
+    * size0
+    * vesselType: Plane
+    * CrewCapacity: 1
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/NukesTinyGirder/master/GameData/NukesTinyGirder/Parts/%40thumbs/ElMallet_icon.png" alt="Mallet" width="25%" height="25%" />
-  
-   <img src="https://raw.githubusercontent.com/zer0Kerbal/NukesTinyGirder/master/GameData/NukesTinyGirder/Parts/%40thumbs/
-   ELSurveyStake_icon.png
-   " alt="
-   SurveyStake
-   " width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/NukesTinyGirder/master/GameData/NukesTinyGirder/Parts/%40thumbs/ntp-cockpit_icon_icon.png" alt="Tiny Pod" width="25%" height="25%" />
 
-tinyGirderDock.cfg
-tinyGirderExplodie.cfg
-tinyGirderGimballedMonoThruster.cfg
-tinyGirderHalfMeterAdapter.cfg
-tinyGirderHuge.cfg
-tinyGirderIonThruster.cfg
-tinyGirderLarge.cfg
-tinyGirderLargeElbow.cfg
-tinyGirderLargeHub.cfg
-tinyGirderLargeHubTank.cfg
-tinyGirderLfArcjetThruster.cfg
-tinyGirderMedium.cfg
-tinyGirderMediumTank.cfg
-tinyGirderMiniscule.cfg
-tinyGirderOctoHub.cfg
-tinyGirderSmall.cfg
-tinyGirderSmallElbow.cfg
-tinyGirderSmallHub.cfg
-tinyGirderSmallTank.cfg
-tinyGirderTiny.cfg
 ---
 
 [top](#Parts-Catalog)
