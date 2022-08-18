@@ -17,7 +17,7 @@ Tiny part addon that adds Nuke's Tiny Pods (okay, just one for now) for Kerbal S
 
 
 
-## By [`zer0Kerbal`][zer0Kerbal], originally by[`Nuke`][nuke]
+## By [`zer0Kerbal`][zer0Kerbal], originally by [`Nuke`][nuke]
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
