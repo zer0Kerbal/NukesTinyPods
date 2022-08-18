@@ -119,6 +119,7 @@
     * is not permanent. will be removed when the mod is updated to 1.0.0.0-release
 * Rename filename to unique filenames following the pattern `ntg-<PART-NAME>`
   * <hmCockpit.cfg> --> <ntp-cockpit.cfg>
+  * <PropConfig.cfg> --> <halfMeterCockpitInterior.cfg>
 
 ### Compatibility 0.9.99.0
 
