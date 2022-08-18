@@ -42,7 +42,7 @@
   * [Marketing.md] v1.0.1.0
   * [Notices.md] v1.0.1.0
   * [Disclaimer.md] v1.0.1.0
-  * [PartCatalog.md] v1.1.4.1
+  * [PartsCatalog.md] v1.1.4.1
   * [Why.md] v1.1.0.0
 * closes #25 - docs/
 
@@ -71,49 +71,48 @@
     * [readme.md] v2.1.2.0
     * [quickstart.md] v1.0.1.1
 * updates #5 - Localization Master
-* closes #6 - Localization - English <en-us.cfg>
-* updates #23 - Part Localization
-* closes #27 - Localization
+* closes #5 - Localization - English <en-us.cfg>
+* closes #23 - Part Localization
+* closes #27 - Localization/ folder
 
 ### Add localized tags to parts
 
 * Add
   * [NukesTinyPods.cfg] v1.0.0.0
     * adds localized tags to parts
-* closes #28 - Add localized tags to parts
+* closes #29 - Add localized tags to parts
 
 ### Img
 
 * Create
   * Hero.png
-* closes #29 - Create Hero.png
+* closes #28 - Create Hero.png
 
 ### Parts 0.9.99.0
 
 * Rename parts to unique names following the pattern `ntp-<PART-NAME>`
   * [halfMeterCockpit] --> [ntp-cockpit]
-    * Update
-    * based upon stock Mark1Cockpit
-    * [TechRequired] = aviation // advFlightControl
-    * entryCost = 5000 // 10500
-    * cost = 1250 // 2100
-    * tags = #autoLOC_500309
-    * angularDrag = 0.9 // 2
-    * maxTemp = 2100 // 1100
-    * skinMaxTemp = 2750 // 2000
-    * [ModuleCommand]
-      * no hibernation
-      * add control points
-    * [ModuleSAS]
-      * [SASServiceLevel] from nothing to 1
-    * [ModuleReactionWheel]
-      * [ElectricCharge] from 0.1 to 0.2
-  * Internal
-    * ntp-cockpit
-  * Possible changes:
-    * needs further input and discussion
-    * based upon stock Mark1Cockpit
-    * minimum_drag = 0.9 // 0.1
+    * Added
+      * [tags] = #autoLOC_500309
+      * [ModuleSAS]
+        * [SASServiceLevel] from nothing to 1
+    * Update (based upon stock Mark1Cockpit)
+      * [TechRequired] = aviation was advFlightControl
+      * [entryCost] = 5000 was 10500
+      * [cost] = 1250 was 2100
+      * [angularDrag] = 2 was 0.9
+      * [maxTemp] = 1100 was 2100
+      * [skinMaxTemp] = 2000 was 2750
+      * [ModuleCommand]
+        * no hibernation
+        * add control points
+      * [ModuleReactionWheel]
+        * [ElectricCharge] from 0.1 to 0.2 (older tech = more consumption)
+    * Internal
+      * ntp-cockpit
+    * Possible changes:
+      * needs further input and discussion
+      * [minimum_drag] is 0.9 and Mark1Cockpit is 1
   * Add
     * <ghostparts.cfg> to attempt to prevent any damage to existing save games.
     * is not permanent. will be removed when the mod is updated to 1.0.0.0-release
@@ -121,18 +120,13 @@
   * <hmCockpit.cfg> --> <ntp-cockpit.cfg>
   * <PropConfig.cfg> --> <halfMeterCockpitInterior.cfg>
 
-### Compatibility 0.9.99.0
-
-* Create
-  * [TweakScale.cfg] 1.0.0.0
-
 ### Status 0.9.99.0
 
 * Issues
-  * closes #1 - Nuke's Tiny Girder (NtG) 0.9.99.0-adoption `<Thank you Nuke!>`
-  * closes #2 - 0.9.99.0 Create Legal Mumbo Jumbo
-  * closes #3 - 0.9.99.0 Create Documentation
-  * closes #4 - 0.9.99.0 Create Social Media
+  * closes #1 - Nuke's Tiny Pods (NtP) 0.9.99.0-adoption `<Thank you Nuke>`
+  * closes #2 - 0.9.99.0 Verify Legal Mumbo Jumbo
+  * closes #3 - 0.9.99.0 Update Documentation
+  * closes #4 - 0.9.99.0 Update Social Media
 
 ---
 
