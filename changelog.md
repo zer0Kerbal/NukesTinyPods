@@ -98,6 +98,9 @@
     * entryCost = 5000 // 10500
     * cost = 1250 // 2100
     * tags = #autoLOC_500309
+    * angularDrag = 0.9 // 2
+    * maxTemp = 2100 // 1100
+    * skinMaxTemp = 2750 // 2000
     * [ModuleCommand]
       * no hibernation
       * add control points
@@ -110,10 +113,7 @@
   * Possible changes:
     * needs further input and discussion
     * based upon stock Mark1Cockpit
-    * minimum_drag = 0.09 // 0.1
-    * angularDrag = 0.9 // 2
-    * maxTemp = 2100 // 1100
-    * skinMaxTemp = 2750 // 2000
+    * minimum_drag = 0.9 // 0.1
   * Add
     * <ghostparts.cfg> to attempt to prevent any damage to existing save games.
     * is not permanent. will be removed when the mod is updated to 1.0.0.0-release
