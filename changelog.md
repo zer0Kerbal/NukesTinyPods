@@ -83,10 +83,16 @@
   * <hmCockpit.cfg> --> <ntp-cockpit.cfg>
   * <PropConfig.cfg> --> <halfMeterCockpitInterior.cfg>
 
+* closes #39 - [Request]: add a fuel cell to the pod
+* closes #38 - [Request]: add MonoProp
+
 ### Status 1.0.0.0
 
 * Issues
-
+  * closes #32 - Nuke's Tiny Pods (NtP) 1.0.0.0-release `<Sooner or later>`
+  * closes #33 - 1.0.0.0 Verify Legal Mumbo Jumbo
+  * closes #34 - 1.0.0.0 Update Documentation
+  * closes #35 - 1.0.0.0 Update Social Media
 ---
 
 ## Version 0.9.99.0-adoption - `<Thank you Nuke>` edition
