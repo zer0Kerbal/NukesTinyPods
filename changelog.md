@@ -1,14 +1,14 @@
 # Changelog
 
-| modName    | Nuke's Tiny Pods (NtP)                                         |
+| modName    | Nuke's Tiny Pods (NtP) by Nuke                                    |
 | ---------- | ----------------------------------------------------------------- |
-| license    | GPL-2.0                                                           |
-| author     | zer0Kerbal                                                        |
+| license    | GPL-2.0+ARR                                                       |
+| author     | Nuke and zer0Kerbal                                               |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/209393-*/) |
-| github     | (https://github.com/zer0Kerbal/zer0Kerbal/NukesTinyGirder)        |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/NukesTinyGirder)      |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/NukesTinyPods)          |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/NukesTinyPods)        |
 | spacedock  | (https://spacedock.info/mod/3085)                                 |
-| ckan       | NukesTinyGirder                                                   |
+| ckan       | NukesTinyPods                                                     |
 
 ## Version 0.9.99.0-adoption - `<Thank you Nuke>` edition
 
