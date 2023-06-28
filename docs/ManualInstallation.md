@@ -4,19 +4,21 @@ title: Manual Installation
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
-<!-- ManualInstallation.md v1.1.8.1
+<!-- ManualInstallation.md v1.0.1.0
 Nuke's Tiny Pods (NtP)
-created: 01 Oct 2019
-updated: 29 Jul 2022 -->
+created: 16 Aug 2022
+updated: 27 Jun 2023
 
-<!-- based upon work by Lisias -->
+TEMPLATE: ManualInstallation.md v1.1.9.1
+created: 01 Feb 2022
+updated: 26 Apr 2023
 
-# Nuke's Tiny Pods (NtP)
+based upon work by Lisias -->
+## [Nuke's Tiny Pods (NtP)][mod]
 
 [Home](./index.md)
 
-Adds Nuke's Tiny Girders for Kerbal Space Program.
+Tiny part addon that adds Nuke's Tiny Pods (okay, just one for now) for Kerbal Space Program.
 
 ## Installation Instructions
 
@@ -26,7 +28,7 @@ You should be all good! (check for latest version on CurseForge)
 
 ### If Downloaded from CurseForge/OverWolf manual download
 
-To install, place the `NukesTinyPods` folder inside your Kerbal Space Program's GameData folder:
+To install, place the `Nuke` folder inside your Kerbal Space Program's GameData folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
   * Delete `<KSP_ROOT>/GameData/Nuke/NukesTinyPods`
@@ -53,21 +55,25 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
   + [GameData]
     + [Nuke]
       + [NukesTinyPods]
+        ...
+      + [NukesTinyPods]
+        + [Assets]
+          ...
         + [Compatibility]
           ...
         + [Config]
-          ...
-        + [Contracts]
           ...
         + [Localization]
           ...
         + [Parts]
           ...
+        + [Spaces]
+          ...
         * #.#.#.#.htm
         * Attributions.htm
         * changelog.md
         * GPL-2.0.txt
-          ManualInstallation.htm
+        * ManualInstallation.htm
         * NukesTinyPods.version
         * readme.htm
       ...
@@ -79,8 +85,9 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
 ### Dependencies
 
-* [Nuke's Unlimited (NU)][NU]
+* [Nuke's Unlimited (NU)](https://www.curseforge.com/kerbal/ksp-mods/NukesUnlimited)
 
-[NU]: https://forum.kerbalspaceprogram.com/index.php?/topic/209381-*/ "Nuke's Unlimited Forum Thread"
-[mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
-[mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/NukesTinyPods "Nuke's Tiny Pods (NtP)"
