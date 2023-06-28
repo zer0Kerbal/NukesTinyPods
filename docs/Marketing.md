@@ -43,4 +43,4 @@ A view from the cockpit interior on the launchpad
 [IMG:hero:2a]: https://raw.githubusercontent.com/zer0Kerbal/NukesTinyPods/master/img/IVA-01.png "Launchpad IVA"
 [IMG:hero:2b]: https://raw.githubusercontent.com/zer0Kerbal/NukesTinyPods/master/img/IVA-02.png "LKO IVA"
 
-<!-- this file CC BY-ND 4.0 by zer0Kerbal -->
+<!-- THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
