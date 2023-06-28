@@ -7,8 +7,87 @@
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/209393-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/NukesTinyPods)          |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/NukesTinyPods)        |
-| spacedock  | (https://spacedock.info/mod/3085)                                 |
+| spacedock  | (https://spacedock.info/mod/3086)                                 |
 | ckan       | NukesTinyPods                                                     |
+
+## Version 1.0.0.0-release - `<Sooner or later>` edition
+
+* Released
+  * 27 Jun 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+* 📌 Pinned
+  * Dependencies:
+    * [Nukes Unlimited (NU)](https://www.curseforge.com/kerbal/ksp-mods/NukesUnlimited)
+
+### Change Summary 1.0.0.0
+
+* Included <ghostparts.cfg>
+
+### Update License 1.0.0.0
+
+* Updated License: GPL-2.0
+  * was: Public Domain
+* closes #24 - Updated  License
+
+### docs/ 1.0.0.0
+
+* Update
+  * [`_config.yml`]
+  * [Attribution.md] v1.0.7.1
+  * [ManualInstallation.md] v1.1.8.0
+  * [404.md] v1.0.3.2
+  * [LegalMumboJumbo.md] v1.0.5.1
+  * [Localizations.md] v1.1.7.0
+  * [Marketing.md] v1.0.1.0
+  * [Notices.md] v1.0.1.0
+  * [Disclaimer.md] v1.0.1.0
+  * [PartsCatalog.md] v1.1.4.1
+  * [Why.md] v1.1.0.0
+* updates #25 - docs/
+
+### Asset Updates 1.0.0.0
+
+* updates #26 - Asset Updates
+
+### Localization 1.0.0.0
+
+* Update
+  * Localization/
+    * <en-us.cfg>
+    * [readme.md] v2.1.2.0
+    * [quickstart.md] v1.0.1.1
+* updates #5 - Localization Master
+* updates #6 - Localization - English <en-us.cfg>
+
+### Add localized tags to parts 1.0.0.0
+
+* Add
+  * [NukesTinyPods.cfg] v1.0.0.0
+    * adds localized tags to parts
+* closes #29 - Add localized tags to parts
+
+### Img 1.0.0.0
+
+* Update
+  * Hero.png
+* closes #28 - Create Hero.png
+
+### Parts 1.0.0.0
+
+  * Add
+    * <ghostparts.cfg> to attempt to prevent any damage to existing save games.
+    * is not permanent. will be removed when the mod is updated to 1.0.0.0-release
+* Rename filename to unique filenames following the pattern `ntg-<PART-NAME>`
+  * <hmCockpit.cfg> --> <ntp-cockpit.cfg>
+  * <PropConfig.cfg> --> <halfMeterCockpitInterior.cfg>
+
+### Status 1.0.0.0
+
+* Issues
+
+---
 
 ## Version 0.9.99.0-adoption - `<Thank you Nuke>` edition
 
@@ -17,20 +96,20 @@
 
 ### Adoption by zer0Kerbal
 
-### Summary
+### Summary 0.9.99.0
 
 * Split off from Nukes Tiny Parts
 * this is the first in a series of updates to Nukes Tiny Pods
 * smaller updates make updating the addon much more manageable.
 * Included <ghostparts.cfg>
 
-### Update License
+### Update License 0.9.99.0
 
 * Updated License: GPL-2.0
   * was: Public Domain
 * closes #24 - Updated  License
 
-### docs/
+### docs/ 0.9.99.0
 
 * Add
   * [`_config.yml`]
@@ -46,7 +125,7 @@
   * [Why.md] v1.1.0.0
 * closes #25 - docs/
 
-### Asset Updates
+### Asset Updates 0.9.99.0
 
 * create Assets/ folder
 * convert from mesh to MODEL
@@ -75,14 +154,14 @@
 * closes #23 - Part Localization
 * closes #27 - Localization/ folder
 
-### Add localized tags to parts
+### Add localized tags to parts 0.9.99.0
 
 * Add
   * [NukesTinyPods.cfg] v1.0.0.0
     * adds localized tags to parts
 * closes #29 - Add localized tags to parts
 
-### Img
+### Img 0.9.99.0
 
 * Create
   * Hero.png
