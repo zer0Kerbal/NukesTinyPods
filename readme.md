@@ -9,6 +9,14 @@ updated: 10 Aug 2022 -->
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][CKAN:shd]][CKAN:url]  
 [![Pages][MOD:pages:shd]][MOD:pages]
 
+NukesUnlimite
+NukesTinyAero
+NukesTinyEngines
+NukesTinyExperimental
+NukesTinyGirders
+NukesTinyPods
+NukesTinyTanks
+NukesTinyUtility
 
 
 # Nuke's Tiny Pods (NtP)
