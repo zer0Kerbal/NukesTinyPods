@@ -48,7 +48,6 @@
 
 * *considered untested and experimental*
 * Add
-  * [TarsierSpaceTech.cfg] v1.0.0.0
   * [ConnectedLivingSpace.cfg] v1.0.0.0
   * [KerbalInventorySystem.cfg] v1.0.0.0
     * 4 slots
@@ -56,6 +55,8 @@
     * 100000 diskSpace
   * [OnDemandFuelCells.cfg] v1.0.0.0
   * [RemoteTech.cfg] v1.0.0.0
+  * [TarsierSpaceTech.cfg] v1.0.0.0
+    * 120 Capacity
   * Fuel Switchers
     * [B9FuelSwitch.cfg] v1.0.0.0
     * [ModularFuelTanks.cfg] v1.0.0.0
