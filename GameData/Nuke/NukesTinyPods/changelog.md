@@ -30,34 +30,38 @@
 #### Parts 1.0.0.0
 
 * [ntp-cockpit.cfg] v1.0.1.0
-  * Add KerbNET
-  * Update 
-
-### Parts 1.0.0.0
-
-* Add
-* Rename filename to unique filenames following the pattern `ntg-<PART-NAME>`
-  * <hmCockpit.cfg> --> <ntp-cockpit.cfg>
-  * <PropConfig.cfg> --> <halfMeterCockpitInterior.cfg>
-
+  * Update
+    * attachment nodes
+    * [mass] from 0.55 --> 0.555
+    * [antennaPower] from 3000 --> 5000
+    * [optimumRange] from 1200 --> 2500
+    * DRAG_CUBES
+  * Add
+    * KerbNET
+    * ModuleToggleCrossfeed
+    * 1.5 ec/s MP fuel cell
+    * [MonoPropellant] 10 units
 * closes #39 - [Request]: add a fuel cell to the pod
 * closes #38 - [Request]: add MonoProp
-
 
 #### Compatibility 1.0.0.0
 
 * *considered untested and experimental*
 * Add
-  * [TarsierSpaceTech.cfg] v1.0.0.0
   * [ConnectedLivingSpace.cfg] v1.0.0.0
   * [KerbalInventorySystem.cfg] v1.0.0.0
+    * 4 slots
   * [KerbalOperatingSystem.cfg] v1.0.0.0
+    * 100000 diskSpace
   * [OnDemandFuelCells.cfg] v1.0.0.0
   * [RemoteTech.cfg] v1.0.0.0
+  * [TarsierSpaceTech.cfg] v1.0.0.0
+    * 120 Capacity
   * Fuel Switchers
     * [B9FuelSwitch.cfg] v1.0.0.0
     * [ModularFuelTanks.cfg] v1.0.0.0
   * Life Support
+    * supplies for one crew, for three, six hour days
     * [TACS-LS.cfg] v1.0.0.0
     * [USI-LS.cfg] v1.0.0.0
     * [Snacks.cfg] v1.0.0.0
