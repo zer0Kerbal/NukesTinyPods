@@ -107,16 +107,16 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 * [Kerbal Inventory System (KIS)](https://curseforge.com/kerbal/ksp-mods/kerbal-inventory-system-kis)
 * [Kerbal Operating System (KOS)](https://forum.kerbalspaceprogram.com/index.php?/topic/165628-*/)
 * [RemoteTech (RT)](https://remotetechnologiesgroup.github.io/RemoteTech/)
-* [TweakScale (twk)](https://curseforge.com/kerbal/ksp-mods/TweakScale)
+<!-- * [TweakScale (twk)](https://curseforge.com/kerbal/ksp-mods/TweakScale) -->
 * Fuel Switchers:
   * [B9 Part Switch](https://forum.kerbalspaceprogram.com/topic/140541-*/)
-  * [FireSpitter Core](https://legacy.curseforge.com/kerbal/ksp-mods/firespitter)
-  * [Interstellar Fuel Switch Core](https://legacy.curseforge.com/kerbal/ksp-mods/interstellar-fuel-switch)
+  <!-- * [FireSpitter Core](https://legacy.curseforge.com/kerbal/ksp-mods/firespitter) -->
+  <!-- * [Interstellar Fuel Switch Core](https://legacy.curseforge.com/kerbal/ksp-mods/interstellar-fuel-switch) -->
   * [Modular Fuel Tanks](http://forum.kerbalspaceprogram.com/index.php?/topic/58235-*/)
-  * [SimpleFuelSwitch](https://forum.kerbalspaceprogram.com/topic/181274-*/)
+  <!-- * [SimpleFuelSwitch](https://forum.kerbalspaceprogram.com/topic/181274-*/) -->
 * Life Support
-  * [ECLSS](https://forum.kerbalspaceprogram.com/index.php?/topic/84197-*/)
-  * [Kerbalism (kerb)](https://forum.kerbalspaceprogram.com/index.php?/topic/190382-*/)
+  <!-- * [ECLSS](https://forum.kerbalspaceprogram.com/index.php?/topic/84197-*/) -->
+  <!-- * [Kerbalism (kerb)](https://forum.kerbalspaceprogram.com/index.php?/topic/190382-*/) -->
   * [Snacks](https://forum.kerbalspaceprogram.com/index.php?/topic/149604-*/)
   * [TAC Life Support (TAC-LS)](https://forum.kerbalspaceprogram.com/index.php?/topic/146465-*/)
   * [USI Life Support (USI-LS)](https://forum.kerbalspaceprogram.com/index.php?/topic/105202-*/)
