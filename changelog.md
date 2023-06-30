@@ -25,11 +25,70 @@
 
 * Included <ghostparts.cfg>
 
-### Update License 1.0.0.0
+### Changes 1.0.0.0
+
+#### Parts 1.0.0.0
+
+* [ntp-cockpit.cfg] v1.0.1.0
+  * Add KerbNET
+  * Update 
+
+### Parts 1.0.0.0
+
+* Update
+  * [ntp-cockpit.cfg] v1.0.1.0
+    * Add
+      * 1.5 ec/s MP fuel cell
+      * [MonoPropellant] 10 units
+* closes #39 - [Request]: add a fuel cell to the pod
+* closes #38 - [Request]: add MonoProp
+
+
+#### Compatibility 1.0.0.0
+
+* *considered untested and experimental*
+* Add
+  * [TarsierSpaceTech.cfg] v1.0.0.0
+  * [ConnectedLivingSpace.cfg] v1.0.0.0
+  * [KerbalInventorySystem.cfg] v1.0.0.0
+  * [KerbalOperatingSystem.cfg] v1.0.0.0
+  * [OnDemandFuelCells.cfg] v1.0.0.0
+  * [RemoteTech.cfg] v1.0.0.0
+  * Fuel Switchers
+    * [B9FuelSwitch.cfg] v1.0.0.0
+    * [ModularFuelTanks.cfg] v1.0.0.0
+  * Life Support
+    * supplies for one crew, for three, six hour days
+    * [TACS-LS.cfg] v1.0.0.0
+    * [USI-LS.cfg] v1.0.0.0
+    * [Snacks.cfg] v1.0.0.0
+
+#### Config 1.0.0.0
+
+* Updates
+  * [NukesTinyPods.cfg] v1.0.1.0
+  * [ghostparts.cfg] v1.0.1.0
+    * disabled by default
+
+#### Update License 1.0.0.0
 
 * Updated License: GPL-2.0
   * was: Public Domain
 * closes #24 - Updated  License
+
+#### Localization 2.0.99.1
+
+* Add
+  * Russian (Русский)
+    * [ru.cfg] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+  * Translation guides
+    * [readme-ru.md] v1.0.1.0
+    * [quickstart-ru.md] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+* Update
+  * [ru.cfg] v1.0.1.0
+  * add header, give credit
 
 ### docs/ 1.0.0.0
 
@@ -72,19 +131,7 @@
 
 * Update
   * Hero.png
-* closes #28 - Create Hero.png
-
-### Parts 1.0.0.0
-
-  * Add
-    * <ghostparts.cfg> to attempt to prevent any damage to existing save games.
-    * is not permanent. will be removed when the mod is updated to 1.0.0.0-release
-* Rename filename to unique filenames following the pattern `ntg-<PART-NAME>`
-  * <hmCockpit.cfg> --> <ntp-cockpit.cfg>
-  * <PropConfig.cfg> --> <halfMeterCockpitInterior.cfg>
-
-* closes #39 - [Request]: add a fuel cell to the pod
-* closes #38 - [Request]: add MonoProp
+* updates #28 - Create Hero.png
 
 ### Status 1.0.0.0
 
@@ -93,6 +140,7 @@
   * closes #33 - 1.0.0.0 Verify Legal Mumbo Jumbo
   * closes #34 - 1.0.0.0 Update Documentation
   * closes #35 - 1.0.0.0 Update Social Media
+
 ---
 
 ## Version 0.9.99.0-adoption - `<Thank you Nuke>` edition
