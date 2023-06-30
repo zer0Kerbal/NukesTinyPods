@@ -23,7 +23,18 @@
 
 ### Change Summary 1.0.0.0
 
-* Included <ghostparts.cfg>
+* Update cockpit.cfg and IVA.cfg
+* Add Compatibility
+  * *considered untested and experimental*
+  * ConnectedLivingSpace
+  * KerbalInventorySystem
+  * KerbalOperatingSystem
+  * OnDemandFuelCells
+  * RemoteTech
+  * TarsierSpaceTech
+  * Fuel Switchers: B9FuelSwitch, ModularFuelTanks
+  * Life Support: TACS-LS, USI-LS, Snacks
+    * supplies for one crew, for three, six hour days
 
 ### Changes 1.0.0.0
 
@@ -35,6 +46,8 @@
     * [mass] from 0.55 --> 0.555
     * [antennaPower] from 3000 --> 5000
     * [optimumRange] from 1200 --> 2500
+    * ModuleInventoryPart
+    * ModuleCargoPart
     * DRAG_CUBES
   * Add
     * KerbNET
@@ -43,6 +56,12 @@
     * [MonoPropellant] 10 units
 * closes #39 - [Request]: add a fuel cell to the pod
 * closes #38 - [Request]: add MonoProp
+
+#### Spaces 1.0.0.0
+
+* Update
+  * [halfMeterCockpitInterior.cfg] v1.0.1.0
+    * add MODEL
 
 #### Compatibility 1.0.0.0
 
@@ -73,67 +92,40 @@
   * [ghostparts.cfg] v1.0.1.0
     * disabled by default
 
-#### Update License 1.0.0.0
-
-* Updated License: GPL-2.0
-  * was: Public Domain
-* closes #24 - Updated  License
-
-#### Localization 2.0.99.1
+#### Localization 1.0.0.0
 
 * Add
-  * Russian (Русский)
-    * [ru.cfg] v1.0.0.0
-    * Спасибо [evanisrael](https://github/evanisrael)
   * Translation guides
     * [readme-ru.md] v1.0.1.0
     * [quickstart-ru.md] v1.0.0.0
     * Спасибо [evanisrael](https://github/evanisrael)
 * Update
-  * [ru.cfg] v1.0.1.0
-  * add header, give credit
-
-### docs/ 1.0.0.0
-
-* Update
-  * [`_config.yml`]
-  * [Attribution.md] v1.0.7.1
-  * [ManualInstallation.md] v1.1.8.0
-  * [404.md] v1.0.3.2
-  * [LegalMumboJumbo.md] v1.0.5.1
-  * [Localizations.md] v1.1.7.0
-  * [Marketing.md] v1.0.1.0
-  * [Notices.md] v1.0.1.0
-  * [Disclaimer.md] v1.0.1.0
-  * [PartsCatalog.md] v1.1.4.1
-  * [Why.md] v1.1.0.0
-* updates #25 - docs/
-
-### Asset Updates 1.0.0.0
-
-* updates #26 - Asset Updates
-
-### Localization 1.0.0.0
-
-* Update
-  * Localization/
-    * <en-us.cfg>
-    * [readme.md] v2.1.2.0
-    * [quickstart.md] v1.0.1.1
+  * [en-us.cfg] v1.0.1.0
+  * lint, add header, give credit
 * updates #5 - Localization Master
 * updates #6 - Localization - English <en-us.cfg>
 
-### Add localized tags to parts 1.0.0.0
+### docs/ 1.0.0.0
 
-* Add
-  * [NukesTinyPods.cfg] v1.0.0.0
-    * adds localized tags to parts
-* closes #29 - Add localized tags to parts
-
-### Img 1.0.0.0
-
+* Move
+  * thumbs
+  * marking images
 * Update
-  * Hero.png
+  * [_config.yml] v1.0.3.0
+  * [404.md] v1.0.1.0
+  * [Attributions.md] v1.0.1.0
+  * [Disclaimer.md] v1.0.1.0
+  * [LegalMumboJumbo.md] v1.0.1.0
+  * [Localizations.md] v1.0.1.0
+  * [ManualInstallation.md] v1.0.1.0
+  * [Marketing.md] v1.0.1.0
+  * [Notices.md] v1.0.1.0
+  * [PartsCatalog.md] v1.0.1.0
+  * [readme.md] v1.0.0.0
+  * [release.md] v1.0.0.0
+  * [Why.md] v1.0.1.0
+* Hero.png
+* updates #25 - docs/
 * updates #28 - Create Hero.png
 
 ### Status 1.0.0.0
