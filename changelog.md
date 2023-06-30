@@ -1,14 +1,142 @@
 # Changelog
 
-| modName    | Nuke's Tiny Pods (NtP)                                         |
+| modName    | Nuke's Tiny Pods (NtP) by Nuke                                    |
 | ---------- | ----------------------------------------------------------------- |
-| license    | GPL-2.0                                                           |
-| author     | zer0Kerbal                                                        |
+| license    | GPL-2.0+ARR                                                       |
+| author     | Nuke and zer0Kerbal                                               |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/209393-*/) |
-| github     | (https://github.com/zer0Kerbal/zer0Kerbal/NukesTinyGirder)        |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/NukesTinyGirder)      |
-| spacedock  | (https://spacedock.info/mod/3085)                                 |
-| ckan       | NukesTinyGirder                                                   |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/NukesTinyPods)          |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/NukesTinyPods)        |
+| spacedock  | (https://spacedock.info/mod/3086)                                 |
+| ckan       | NukesTinyPods                                                     |
+
+## Version 1.0.0.0-release - `<Sooner or later>` edition
+
+* Released
+  * 27 Jun 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+* 📌 Pinned
+  * Dependencies:
+    * [Nukes Unlimited (NU)](https://www.curseforge.com/kerbal/ksp-mods/NukesUnlimited)
+
+### Change Summary 1.0.0.0
+
+* Update cockpit.cfg and IVA.cfg
+* Add Compatibility
+  * *considered untested and experimental*
+  * ConnectedLivingSpace
+  * KerbalInventorySystem
+  * KerbalOperatingSystem
+  * OnDemandFuelCells
+  * RemoteTech
+  * TarsierSpaceTech
+  * Fuel Switchers: B9FuelSwitch, ModularFuelTanks
+  * Life Support: TACS-LS, USI-LS, Snacks
+    * supplies for one crew, for three, six hour days
+
+### Changes 1.0.0.0
+
+#### Parts 1.0.0.0
+
+* [ntp-cockpit.cfg] v1.0.1.0
+  * Update
+    * attachment nodes
+    * [mass] from 0.55 --> 0.555
+    * [antennaPower] from 3000 --> 5000
+    * [optimumRange] from 1200 --> 2500
+    * ModuleInventoryPart
+    * ModuleCargoPart
+    * DRAG_CUBES
+  * Add
+    * KerbNET
+    * ModuleToggleCrossfeed
+    * 1.5 ec/s MP fuel cell
+    * [MonoPropellant] 10 units
+* closes #39 - [Request]: add a fuel cell to the pod
+* closes #38 - [Request]: add MonoProp
+
+#### Spaces 1.0.0.0
+
+* Update
+  * [halfMeterCockpitInterior.cfg] v1.0.1.0
+    * add MODEL
+
+#### Compatibility 1.0.0.0
+
+* *considered untested and experimental*
+* Add
+  * [ConnectedLivingSpace.cfg] v1.0.0.0
+  * [KerbalInventorySystem.cfg] v1.0.0.0
+    * 4 slots
+  * [KerbalOperatingSystem.cfg] v1.0.0.0
+    * 100000 diskSpace
+  * [OnDemandFuelCells.cfg] v1.0.0.0
+  * [RemoteTech.cfg] v1.0.0.0
+  * [TarsierSpaceTech.cfg] v1.0.0.0
+    * 120 Capacity
+  * Fuel Switchers
+    * [B9FuelSwitch.cfg] v1.0.0.0
+    * [ModularFuelTanks.cfg] v1.0.0.0
+  * Life Support
+    * supplies for one crew, for three, six hour days
+    * [TACS-LS.cfg] v1.0.0.0
+    * [USI-LS.cfg] v1.0.0.0
+    * [Snacks.cfg] v1.0.0.0
+
+#### Config 1.0.0.0
+
+* Updates
+  * [NukesTinyPods.cfg] v1.0.1.0
+  * [ghostparts.cfg] v1.0.1.0
+    * disabled by default
+
+#### Localization 1.0.0.0
+
+* Add
+  * Translation guides
+    * [readme-ru.md] v1.0.1.0
+    * [quickstart-ru.md] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+* Update
+  * [en-us.cfg] v1.0.1.0
+  * lint, add header, give credit
+* updates #5 - Localization Master
+* updates #6 - Localization - English <en-us.cfg>
+
+### docs/ 1.0.0.0
+
+* Move
+  * thumbs
+  * marking images
+* Update
+  * [_config.yml] v1.0.3.0
+  * [404.md] v1.0.1.0
+  * [Attributions.md] v1.0.1.0
+  * [Disclaimer.md] v1.0.1.0
+  * [LegalMumboJumbo.md] v1.0.1.0
+  * [Localizations.md] v1.0.1.0
+  * [ManualInstallation.md] v1.0.1.0
+  * [Marketing.md] v1.0.1.0
+  * [Notices.md] v1.0.1.0
+  * [PartsCatalog.md] v1.0.1.0
+  * [readme.md] v1.0.0.0
+  * [release.md] v1.0.0.0
+  * [Why.md] v1.0.1.0
+* Hero.png
+* updates #25 - docs/
+* updates #28 - Create Hero.png
+
+### Status 1.0.0.0
+
+* Issues
+  * closes #32 - Nuke's Tiny Pods (NtP) 1.0.0.0-release `<Sooner or later>`
+  * closes #33 - 1.0.0.0 Verify Legal Mumbo Jumbo
+  * closes #34 - 1.0.0.0 Update Documentation
+  * closes #35 - 1.0.0.0 Update Social Media
+
+---
 
 ## Version 0.9.99.0-adoption - `<Thank you Nuke>` edition
 
@@ -17,20 +145,20 @@
 
 ### Adoption by zer0Kerbal
 
-### Summary
+### Summary 0.9.99.0
 
 * Split off from Nukes Tiny Parts
 * this is the first in a series of updates to Nukes Tiny Pods
 * smaller updates make updating the addon much more manageable.
 * Included <ghostparts.cfg>
 
-### Update License
+### Update License 0.9.99.0
 
 * Updated License: GPL-2.0
   * was: Public Domain
 * closes #24 - Updated  License
 
-### docs/
+### docs/ 0.9.99.0
 
 * Add
   * [`_config.yml`]
@@ -46,7 +174,7 @@
   * [Why.md] v1.1.0.0
 * closes #25 - docs/
 
-### Asset Updates
+### Asset Updates 0.9.99.0
 
 * create Assets/ folder
 * convert from mesh to MODEL
@@ -75,14 +203,14 @@
 * closes #23 - Part Localization
 * closes #27 - Localization/ folder
 
-### Add localized tags to parts
+### Add localized tags to parts 0.9.99.0
 
 * Add
   * [NukesTinyPods.cfg] v1.0.0.0
     * adds localized tags to parts
 * closes #29 - Add localized tags to parts
 
-### Img
+### Img 0.9.99.0
 
 * Create
   * Hero.png

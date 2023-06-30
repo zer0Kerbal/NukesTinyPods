@@ -16,8 +16,6 @@ SPDX short identifier: GPL-2.0
 
 Further resources on **GPLv2**
 
- 
-
 ------
 
 <img src="https://opensource.org/files/OSI_Approved_License.png" alt="OSI Approved License Logo" style="zoom:10%;" />
