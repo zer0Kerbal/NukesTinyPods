@@ -53,6 +53,7 @@
   * [KerbalInventorySystem.cfg] v1.0.0.0
     * 4 slots
   * [KerbalOperatingSystem.cfg] v1.0.0.0
+    * 100000 diskSpace
   * [OnDemandFuelCells.cfg] v1.0.0.0
   * [RemoteTech.cfg] v1.0.0.0
   * Fuel Switchers
