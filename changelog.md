@@ -30,19 +30,19 @@
 #### Parts 1.0.0.0
 
 * [ntp-cockpit.cfg] v1.0.1.0
-  * Add KerbNET
-  * Update 
-
-### Parts 1.0.0.0
-
-* Update
-  * [ntp-cockpit.cfg] v1.0.1.0
-    * Add
-      * 1.5 ec/s MP fuel cell
-      * [MonoPropellant] 10 units
+  * Update
+    * attachment nodes
+    * [mass] from 0.55 --> 0.555
+    * [antennaPower] from 3000 --> 5000
+    * [optimumRange] from 1200 --> 2500
+    * DRAG_CUBES
+  * Add
+    * KerbNET
+    * ModuleToggleCrossfeed
+    * 1.5 ec/s MP fuel cell
+    * [MonoPropellant] 10 units
 * closes #39 - [Request]: add a fuel cell to the pod
 * closes #38 - [Request]: add MonoProp
-
 
 #### Compatibility 1.0.0.0
 
