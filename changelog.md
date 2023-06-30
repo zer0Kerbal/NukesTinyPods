@@ -51,6 +51,7 @@
   * [TarsierSpaceTech.cfg] v1.0.0.0
   * [ConnectedLivingSpace.cfg] v1.0.0.0
   * [KerbalInventorySystem.cfg] v1.0.0.0
+    * 4 slots
   * [KerbalOperatingSystem.cfg] v1.0.0.0
   * [OnDemandFuelCells.cfg] v1.0.0.0
   * [RemoteTech.cfg] v1.0.0.0
